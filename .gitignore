@@ -1,0 +1,37 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/app/build
+/.build-outputs
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Environment & Secrets (NEVER commit real secrets)
+.env
+.env.*
+!.env.example
+!backend/.env.example
+*.jks
+*.keystore
+*.pem
+*.key
+debug.keystore
+google-services.json
+
+# Node / Web artifacts (if backend workspace is installed)
+node_modules/
+dist/
+coverage/
+*.log
+public/assets/aistudio/

@@ -1,0 +1,6 @@
+{
+  "name": "LedgerLab",
+  "description": "Financial infrastructure simulator with double-entry ledger, transaction lifecycle, explainable risk engine, reconciliation, webhooks, and developer API console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
